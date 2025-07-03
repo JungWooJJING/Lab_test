@@ -1,8 +1,3 @@
-/* test_target.c ─ “고정 입력 파일” 방식 + 중첩 if check()
- *
- *  gcc -std=c99 -Wall -O2 -o test test_target.c
- */
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
